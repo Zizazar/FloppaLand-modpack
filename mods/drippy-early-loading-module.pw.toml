@@ -1,0 +1,13 @@
+name = "Drippy Early Loading Module"
+filename = "drippy_early_loading_module_neoforge_3.1.0_MC_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6d8992603842fbf1f39eaa70ec5aa7c2c15dee4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7256321
+project-id = 1390924

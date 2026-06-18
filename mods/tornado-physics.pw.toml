@@ -1,0 +1,13 @@
+name = "Tornado Physics"
+filename = "tornadophysics-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7d4e0fdac7e4426a79da516363976859028eb5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8079773
+project-id = 1541520

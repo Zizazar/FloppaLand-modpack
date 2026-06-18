@@ -1,0 +1,13 @@
+name = "Create Style Interface"
+filename = "Create Style Interface 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "238ad87f4b102b242c54e275fc839f957ecc7eff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6734440
+project-id = 1239346

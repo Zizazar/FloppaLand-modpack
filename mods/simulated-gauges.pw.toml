@@ -1,0 +1,13 @@
+name = "Simulated Gauges"
+filename = "simulated_gauges-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3588378ea8d5e424ecd00fdaa16a4e3355f09365"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7981083
+project-id = 1520472

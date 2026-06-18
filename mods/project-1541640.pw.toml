@@ -1,0 +1,13 @@
+name = "project-1541640"
+filename = "create_linear_motion_simulated-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88a44632573b61a546e61823c589e370da17af0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8100524
+project-id = 1541640

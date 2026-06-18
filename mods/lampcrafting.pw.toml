@@ -1,0 +1,13 @@
+name = "Lampcrafting"
+filename = "Lampcrafting1.0.7_neoforge_minecraft1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12d25a09a6b76ca541a30fbdd17cef265f983d74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6048557
+project-id = 908231

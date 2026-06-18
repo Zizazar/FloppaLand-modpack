@@ -1,0 +1,13 @@
+name = "Terraphilic"
+filename = "Terraphilic v1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9be06d4c307ac473c8786558e70ccc488ac23720"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6158601
+project-id = 1098706

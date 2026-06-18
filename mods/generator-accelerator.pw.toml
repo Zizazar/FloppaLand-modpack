@@ -1,0 +1,13 @@
+name = "Generator Accelerator"
+filename = "[1.21.1-1.6.2] Generator Accelerator-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2c64a633180ff5dbc435c3db92e5961228c20ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8168434
+project-id = 1323569

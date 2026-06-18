@@ -1,0 +1,13 @@
+name = "Keybind Atlas"
+filename = "KeybindAtlas-v1.4.0-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5885143a620e11657af2b7f06ce94b819d6aec3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8071521
+project-id = 1513576
