@@ -949,31 +949,6 @@ hash = "77e94c20d3e35b58dd3101b8c3d86c1ecb9fb655e486bdca9d76abb70dbeebd2"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-beachparty.pw.toml"
-hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-furniture.pw.toml"
-hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-herbal-brews.pw.toml"
-hash = "4398c80d6451808a8bf8a1de4e3616e0bae1902472fe79e163fb480dbbf88d83"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-meadow.pw.toml"
-hash = "98929c2d2368656d039c75d32612333edf4838ce95b84c7191d01021e3cde6fb"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-vinery.pw.toml"
-hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
