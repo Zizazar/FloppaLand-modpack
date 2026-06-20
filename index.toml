@@ -373,10 +373,6 @@ file = "config/voxy-config.json"
 hash = "1c4bdb3d11384ebff7400c9a7177d1a160fe74b707dbb05672f87f806928e571"
 
 [[files]]
-file = "kubejs/client_scripts/tooltips.js"
-hash = "38fd8858abaf8714d0625459ee2f3eaf11b7815c79f64e848585f5a9b1ae198e"
-
-[[files]]
 file = "kubejs/server_scripts/export_tags.js"
 hash = "3a97d8850de2da6d0cd2316d0c6f95fc9ed4ef83ef6628b6017f05c1bd7f8bd0"
 
@@ -783,11 +779,6 @@ hash = "498c2403baf1f07fc91e7f03d20c181df99ce89d3308fdcce5c337b05023e9bb"
 metafile = true
 
 [[files]]
-file = "mods/drippy-early-loading-module.pw.toml"
-hash = "21f66e4e9771f9234c024bf5bcbd011f86c00cb78f36425a7218a0aec2049edd"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "eea753771cfbd43beb266fefdb1953f718f6aee6c78f10384c8db7150bb37d84"
 metafile = true
@@ -989,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
+hash = "0b2e5afd8e76ff119e6212a077a07a3b786776811f968287f0a219f106c8e175"
 metafile = true
 
 [[files]]
@@ -1014,27 +1005,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "2a4f1e4be390cad36273b547e1cc2bf1b3a74c5f9e80ca3cfc0d0830030c0bbc"
+hash = "a16d3b6079c2eb7976a4031edadb6d813cf672b9694771aab054a80278eada9d"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "ebca20d77b200ff48f7e431ccffac2c2db6844ef4f9304452a0201f5c0307008"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-compats.pw.toml"
-hash = "80003ff4f60a2d7f0e59d132ce3af032f7ed7e923675e36fc1a2f914a26b07d7"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "58ceb046380be656ff449cd62b79bc9540ff08b8502e1e8291c9715e5ca3c829"
-metafile = true
-
-[[files]]
-file = "mods/moonrise.pw.toml"
-hash = "354143bdb8abbf1a5808e24707fb390eb36ea0d97cead95c48c132ec42ac2afa"
 metafile = true
 
 [[files]]
@@ -1075,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
@@ -1129,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "da7443d028b43392288c061257844e750cb75b4cc10ea79dc7b6beb41049704f"
+hash = "aa511ab921f985a95d1aecae21a47be45becfd53ba1c177d2a9899bfd1405c3f"
 metafile = true
 
 [[files]]
@@ -1215,11 +1196,6 @@ metafile = true
 [[files]]
 file = "mods/spotlights-or-something.pw.toml"
 hash = "d73511c291c619293c0cd2a8529b29405da3fb5823ca7ba5b215b4832daf8883"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "8eaab8f312c3a1a72e7d9e9123bbfef2a7dcac7dd7d8f9eab72fb7c0d25b021e"
 metafile = true
 
 [[files]]
