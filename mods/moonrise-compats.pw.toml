@@ -3,11 +3,11 @@ filename = "MoonriseCompats-neoforge-0.1.0-beta.15+2eae1b1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "175cba3d2c8f62786cd3ca80cfeb8759b4b78ed1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kQ3HtPpd/versions/xoyOx1og/MoonriseCompats-neoforge-0.1.0-beta.15%2B2eae1b1.5.jar"
+hash-format = "sha512"
+hash = "2059ccdb2c33e0301561ab20c144957097da1d2de1ddadf0f2b2f72bd57c1367bb0224c20f6a326a2f93f0bae6962cdf1433b5b8d0e52a85b420c33c3146923d"
 
 [update]
-[update.curseforge]
-file-id = 7477043
-project-id = 1431540
+[update.modrinth]
+mod-id = "kQ3HtPpd"
+version = "xoyOx1og"

@@ -1,0 +1,13 @@
+name = "Aesthetic Stairs"
+filename = "aestheticstairs-1.21.1_neoforge_v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hG4v10WD/versions/z8dRh60V/aestheticstairs-1.21.1_neoforge_v2.0.0.jar"
+hash-format = "sha512"
+hash = "0845c83a315eb247dee8b0ce9739811a98855a670c66476f49bdbd4db85f446285c4eb60b8202b803ba748b0a51882e4bf5a5203ab1155687decbfebb83fd1fc"
+
+[update]
+[update.modrinth]
+mod-id = "hG4v10WD"
+version = "z8dRh60V"

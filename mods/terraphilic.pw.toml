@@ -3,11 +3,11 @@ filename = "Terraphilic v1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9be06d4c307ac473c8786558e70ccc488ac23720"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8T4mO5eV/versions/bdiZl5tW/Terraphilic%20v1.2.0.jar"
+hash-format = "sha512"
+hash = "39e1e3f6e0d754fa788f378cc76db5cc2852335b6b12d90d285ee3fbf6ee4b544df8bcba5710e37882f5ba7aea443eeccde25686f03160aa58e17c6b938a14e0"
 
 [update]
-[update.curseforge]
-file-id = 6158601
-project-id = 1098706
+[update.modrinth]
+mod-id = "8T4mO5eV"
+version = "bdiZl5tW"

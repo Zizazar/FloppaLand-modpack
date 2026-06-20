@@ -1,13 +1,13 @@
 name = "Power Screenshot"
 filename = "PowerScreenshot-Minecraft1.21.1-NeoForge-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "1baa3248430f4952ce5999beebd3af30815a0915"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hmJnmIp3/versions/Quf9sO2M/PowerScreenshot-Minecraft1.21.1-NeoForge-1.0.1.jar"
+hash-format = "sha512"
+hash = "bb324f9bcc61497a0d1d5379d3dc9491b21cfff8e51afc1f88d32a93158af23216540b727b5c97a1c5d64a84e573e9eb87be686eb44a3e04a10b4c8456fb4ea6"
 
 [update]
-[update.curseforge]
-file-id = 7805562
-project-id = 1460055
+[update.modrinth]
+mod-id = "hmJnmIp3"
+version = "Quf9sO2M"

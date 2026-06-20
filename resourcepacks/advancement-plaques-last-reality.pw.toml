@@ -1,0 +1,13 @@
+name = "Advancement Plaques PR"
+filename = "Altered Advancement PR.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jRm96Jej/versions/IUYinPKE/Altered%20Advancement%20PR.zip"
+hash-format = "sha512"
+hash = "b8ff151cb7a15e6bc94ca0090322e7ca3527df66a2937fa312e2385e9360d9472150575dcb5a12bf676ad606512da4af242a4e35b96d5b8f412264504cb4c45b"
+
+[update]
+[update.modrinth]
+mod-id = "jRm96Jej"
+version = "IUYinPKE"

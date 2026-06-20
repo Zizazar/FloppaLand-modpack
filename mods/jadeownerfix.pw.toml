@@ -1,0 +1,13 @@
+name = "jadeownerfix"
+filename = "jadeownerfix-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RI7OlTfq/versions/BCg76oft/jadeownerfix-1.0.1.jar"
+hash-format = "sha512"
+hash = "f28b7f623dda510a55f0498c45f450928db3017bdc508591405a4e61e5d6c02bb720697cf3a835ca5cfcca9e0e59b751cf061d9c87f8d3259269b4f7eb94b037"
+
+[update]
+[update.modrinth]
+mod-id = "RI7OlTfq"
+version = "BCg76oft"

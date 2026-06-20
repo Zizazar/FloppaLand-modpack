@@ -1,0 +1,13 @@
+name = "More Red Sable Wire Fix"
+filename = "more_red_sable_wire_fix-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cu1EeY9G/versions/IWlePsfE/more_red_sable_wire_fix-1.0.jar"
+hash-format = "sha512"
+hash = "d53ba2ecf9c59b836be11c22bbae47103467ede6112d08bc33f5d45611900866ad0f44336a57e7051ca5fd607bceb08ebab0ee5457180f0c7de1d1e0eb5b33ac"
+
+[update]
+[update.modrinth]
+mod-id = "cu1EeY9G"
+version = "IWlePsfE"

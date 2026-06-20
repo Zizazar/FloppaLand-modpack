@@ -1,0 +1,13 @@
+name = "Create Propulsion: Simulated RU (ru_ru)"
+filename = "createpropulsion_ru_ru_1.1.4_resourcepack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Ypl5PIf/versions/Roc4e5ei/createpropulsion_ru_ru_1.1.4_resourcepack.zip"
+hash-format = "sha512"
+hash = "a0dfc3b30aa2d3215316e8b0fb981f03fc9c8f70a3f948883c415f87fdd3dcd22688ad2a4f51abd32f00e98a7c63f6b0676ecd52cb2b4939afe83df78dffeefe"
+
+[update]
+[update.modrinth]
+mod-id = "8Ypl5PIf"
+version = "Roc4e5ei"

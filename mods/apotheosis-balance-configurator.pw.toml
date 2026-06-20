@@ -1,0 +1,13 @@
+name = "Apotheosis Balance Configurator"
+filename = "apotheosis_balance-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDQt0Hbn/versions/82nYJcIu/apotheosis_balance-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "2115011f23b7bd865e1e77ab89486c377c745a7a625786e364db351a1434fd4613a9fe3ff53f727657ad4860265cc8e371384ce47211aaea88df6df7f801007c"
+
+[update]
+[update.modrinth]
+mod-id = "nDQt0Hbn"
+version = "82nYJcIu"

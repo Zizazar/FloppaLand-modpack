@@ -3,11 +3,11 @@ filename = "CraterLib-Neoforge-1.21-3.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b1146bec9b6ee6acd07d41d2666beffd1805cc19"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/BaPsTnt7/CraterLib-Neoforge-1.21-3.1.2.jar"
+hash-format = "sha512"
+hash = "8bc1608bbb2278a22ed123c0bf5dd2818079895f5a5cbe1560e8bb36b05ce04c75b425bba3bf4648eaa7f4fbd1f2b7c2a423d98101407ff17a0fe9e12caa904c"
 
 [update]
-[update.curseforge]
-file-id = 8117841
-project-id = 867099
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "BaPsTnt7"

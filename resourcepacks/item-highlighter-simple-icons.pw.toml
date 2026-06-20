@@ -1,0 +1,13 @@
+name = "Item Highlighter Simple Icons"
+filename = "ItemHighlighter simple icons.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zdgi0CUM/versions/a5go3Tdb/ItemHighlighter%20simple%20icons.zip"
+hash-format = "sha512"
+hash = "29548f1f4b3ea591c6567a7968ca09b83b663f81c69b5658ebf32d4cd630f0ed9c3413158a47cd210b33fc5c7e0cad8f1bed186eb135e202f39447b930f42ec6"
+
+[update]
+[update.modrinth]
+mod-id = "Zdgi0CUM"
+version = "a5go3Tdb"

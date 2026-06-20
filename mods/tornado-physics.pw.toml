@@ -3,11 +3,11 @@ filename = "tornadophysics-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7d4e0fdac7e4426a79da516363976859028eb5b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4GHC0z12/versions/GpMejJob/tornadophysics-1.0.0.jar"
+hash-format = "sha512"
+hash = "341b9f1965cff56e40215fb72dcc4d8d82fd730626f007979273776c5131a902466b479f702b6d711a7581b7f440b2579cd8c542d54d83c1855f42eeb8a16b94"
 
 [update]
-[update.curseforge]
-file-id = 8079773
-project-id = 1541520
+[update.modrinth]
+mod-id = "4GHC0z12"
+version = "GpMejJob"
