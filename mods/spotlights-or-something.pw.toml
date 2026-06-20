@@ -1,0 +1,13 @@
+name = "Spotlights or Something"
+filename = "searchlights-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccf9507a67daf755ef4197e6de11e552f53b3030"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8198016
+project-id = 1565038

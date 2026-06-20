@@ -1,0 +1,20 @@
+type = user_variables
+
+variable {
+  name = siteurl
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = links_url
+  value = https://gist.githubusercontent.com/Zizazar/f0d03c44b1cd7f610e81fa6001b4a8ec/raw/fd6ecf72011091db40276ba729edc9e68ac7170d/links.json
+  reset_on_launch = false
+}
+
+variable {
+  name = play_text
+  value = Сервер выключен
+  reset_on_launch = false
+}
+

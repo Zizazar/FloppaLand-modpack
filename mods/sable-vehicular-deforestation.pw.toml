@@ -1,0 +1,13 @@
+name = "Sable Vehicular Deforestation"
+filename = "tree-overrun-sublevels-1.21.1-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3nLIPIe/versions/JGeJLJMW/tree-overrun-sublevels-1.21.1-0.6.0.jar"
+hash-format = "sha512"
+hash = "37f4a35819b464722363f49b22f6a72d6d9ae3be867966aeec2a70d1e6f141daaf92d576ac2ee81fe62504551ee20e6dd52f93c8cb26e4ac56c9cb5bbd868ffc"
+
+[update]
+[update.modrinth]
+mod-id = "m3nLIPIe"
+version = "JGeJLJMW"

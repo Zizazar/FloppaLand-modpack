@@ -1,0 +1,8 @@
+simulated:honey_glue
+create:wrench
+minecraft:diamond_axe
+minecraft:diamond_sword
+create:cardboard_sword
+create:lime_toolbox
+simulated:plunger_launcher
+simulated:creative_physics_staff
