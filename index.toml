@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "0b2e5afd8e76ff119e6212a077a07a3b786776811f968287f0a219f106c8e175"
+hash = "eec0715d020c6079c430338684d4cd752aa55231cb7887174b361481834e3ac4"
 metafile = true
 
 [[files]]
@@ -1104,13 +1104,8 @@ hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored-expansion.pw.toml"
-hash = "8d2129e2cab196956ee8ce430328ff1cfb41f6daa3fbce0ec0f9776ea12c0ab6"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "aa511ab921f985a95d1aecae21a47be45becfd53ba1c177d2a9899bfd1405c3f"
+hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
 
 [[files]]
