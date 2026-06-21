@@ -1,0 +1,8 @@
+name = "voxy"
+filename = "voxy-0.2.15-beta-works-with-new-sodium.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Zizazar/FloppaLand-modpack/releases/download/1.1.0/voxy-0.2.15-beta-works-with-new-sodium.jar"
+hash-format = "sha256"
+hash = "39154e4fc33a16c1c74205d2bd21a9745aafdf2ba10f9ef45a214e0ce800fdf0"
