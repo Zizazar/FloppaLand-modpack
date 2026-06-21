@@ -1,0 +1,9 @@
+*.ps1
+*.sh
+*.bat
+
+*.md
+LICENSE
+.gitignore
+.git/
+.github

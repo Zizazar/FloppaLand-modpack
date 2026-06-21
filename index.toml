@@ -142,7 +142,7 @@ hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
 
 [[files]]
 file = "config/fancymenu/customization/base.txt"
-hash = "c6d7bcbbd99cb8310c47aeea8baff9c4c2d38ccd3e58a5bb635af9894ccb7c0b"
+hash = "bd3a58bc44e7c22a966168ff838c06a7e47565da6533860b2e237ceef245211e"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -385,10 +385,6 @@ file = "kubejs/startup_scripts/core.js"
 hash = "a382cdbcd17a03d3e74b8fb5811d7b15828c87ac8356dcdbc0717078cff39138"
 
 [[files]]
-file = "migrate_to_modrinth.ps1"
-hash = "41ddd33e6e24e92ab1fb05237772aff79d38c345c921f324dbe56cdceb87d6e4"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -611,16 +607,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
-metafile = true
-
-[[files]]
-file = "mods/create-deep-seas-lava-fix.pw.toml"
-hash = "cdee1d0e7cdd515fd5f9171ab4f553a127850d5a584685d125495712db0e94e9"
-metafile = true
-
-[[files]]
-file = "mods/create-deep-seas.pw.toml"
-hash = "f8d89e8ab22339a106448ac61e19c5efb9bb6a28c85485aa62cb67becc9143f8"
 metafile = true
 
 [[files]]
@@ -899,11 +885,6 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "023a9e0fa1f5e1ef16c9bcd14a9dff2ae74466b8c4208ea6d0fa3ca2c3250f9f"
-metafile = true
-
-[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
 metafile = true
@@ -1155,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
 metafile = true
 
 [[files]]
@@ -1229,8 +1210,8 @@ hash = "5367de6572975a1ceaada2d2468624ada048810923fc51e10cc641a8a50da069"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.2.14-alpha.jar"
-hash = "8c46aa9ea461c33afbec2442ad101065e2819659c49607af0564a06d767948e8"
+file = "mods/voxy-0.2.15-beta-works-with-new-sodium.jar"
+hash = "39154e4fc33a16c1c74205d2bd21a9745aafdf2ba10f9ef45a214e0ce800fdf0"
 
 [[files]]
 file = "mods/warvior-ccsable-wired-fix.pw.toml"
