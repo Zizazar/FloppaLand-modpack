@@ -850,11 +850,6 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
-file = "mods/generator-accelerator.pw.toml"
-hash = "ea060b9978b75bf3b80aede7a99ae9f22d5423a285615305308f5e8d5bf3adf5"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
