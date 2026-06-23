@@ -1,0 +1,13 @@
+name = "Better Drive-By-Wire"
+filename = "better-dbw-0.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p3U1fyr2/versions/tNycl8Nr/better-dbw-0.0.2.zip"
+hash-format = "sha512"
+hash = "993c36ed10a2791fd6164727b1d45bf58d72292f27b81ba8d9518720c60ae0d9eccfa65523d264d685f202884925302002569c781bd64461620c86ba3ffc5734"
+
+[update]
+[update.modrinth]
+mod-id = "p3U1fyr2"
+version = "tNycl8Nr"

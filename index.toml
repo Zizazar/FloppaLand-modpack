@@ -595,6 +595,11 @@ hash = "eeca17a08f3564914eb9164dd3646b4348a3091b593597d860c084f48d7c05f5"
 metafile = true
 
 [[files]]
+file = "mods/create-compact-flap.pw.toml"
+hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "19f3a244bf8ffca1aa53621524681f98c680e8395323e7fa50c93169a6851a74"
 metafile = true
@@ -760,8 +765,8 @@ hash = "eea753771cfbd43beb266fefdb1953f718f6aee6c78f10384c8db7150bb37d84"
 metafile = true
 
 [[files]]
-file = "mods/drive-by-wire-with-sable.pw.toml"
-hash = "111ce65a7aad243d26e95ba78ac7cabf8772cce3fec8b3e9f43d3a7aebb0639b"
+file = "mods/drive-by-wire-sable.pw.toml"
+hash = "e7e2ab6ae7389062a2d1b733a0a5bfa59932a07c533110a8fd83e5bd89cf996b"
 metafile = true
 
 [[files]]
@@ -862,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
+metafile = true
+
+[[files]]
+file = "mods/iris-veil-compat.pw.toml"
+hash = "69f9051c61c05546a2bf008654149a101814842bc2bf384df5c0ee0d64301ccd"
 metafile = true
 
 [[files]]
@@ -1121,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
@@ -1170,6 +1180,11 @@ hash = "2d3b02541aa716fd3ea2b8e93cbd84d574d9222333c474aee27c75d011e30e26"
 metafile = true
 
 [[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "f3cf6caa22a19e0993cac2299ad3c3e84f9c104a8cae49d57e1d4f3c9d1bf1f6"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "5518dd2f6a5d88e4affb9df628604737893025206d7149579e4c24f909b130a3"
 metafile = true
@@ -1197,6 +1212,26 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "78bfb4195141ba49ffcf28e379a1d365657db3ff132520bf41dfccad6f132a94"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
@@ -1257,6 +1292,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/advancement-plaques-last-reality.pw.toml"
 hash = "79a434f67d2cb5438cb24d596a55489ebd0bd446d8478fde6de74279397ba63c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-drive-by-wire.pw.toml"
+hash = "4bae820125ce7e9059af110115f6848187e093a729525938e6070bfd051ab964"
 metafile = true
 
 [[files]]
