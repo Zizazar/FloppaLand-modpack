@@ -33,7 +33,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = 8285d007-d79d-4f35-b5c0-d3efb1850d9f-1709419850620
-  [executable_action_instance:afc5c8f9-21e2-4712-8cf0-115011f30afa-1713287684428][action_type:joinserver] = mc.zizazr.art
+  [executable_action_instance:afc5c8f9-21e2-4712-8cf0-115011f30afa-1713287684428][action_type:joinserver] = 46.138.241.206
   [executable_block:61951499-f51c-4a24-b159-dd5f4df1dc06-1777467924554][type:if] = [executables:afc5c8f9-21e2-4712-8cf0-115011f30afa-1713287684428;][appended:61d5cf89-bf32-4d94-a9f6-eaf6d5cc1a95-1777467939650]
   [executable_action_instance:162f470b-007f-4a88-9b8d-a38e20355adf-1777467962736][action_type:show_toast] = {"width":160,"durationMs":5000,"title":"[\"\",{\"text\":\"Server \"},{\"text\":\"OFFLINE\",\"color\":\"red\"}]","message":"Невозможно подключиться к серверу","iconSource":"[source:local]/config/fancymenu/assets/fl_logo_pixel.png","backgroundSource":""}
   [executable_block:61d5cf89-bf32-4d94-a9f6-eaf6d5cc1a95-1777467939650][type:else] = [executables:162f470b-007f-4a88-9b8d-a38e20355adf-1777467962736;]
@@ -50,8 +50,8 @@ element {
   nine_slice_custom_background = true
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = {"placeholder":"serverplayercount","values":{"ip":"mc.zizazr.art"}} 
-  label = Играть - {"placeholder":"serverstatus","values":{"ip":"mc.zizazr.art"}}
+  description = {"placeholder":"serverplayercount","values":{"ip":"46.138.241.206"}} 
+  label = Играть - {"placeholder":"serverstatus","values":{"ip":"46.138.241.206"}}
   navigatable = true
   widget_active_state_requirement_container_identifier = 3d112235-e75a-470c-a9d0-a2abdc93b3bf-1734859894971
   [loading_requirement_container_meta:3d112235-e75a-470c-a9d0-a2abdc93b3bf-1734859894971] = [groups:][instances:]

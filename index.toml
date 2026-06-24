@@ -18,7 +18,7 @@ hash = "8c26f3f7e0a0a0ce0eb7a7b326b818b7635c0771f904f744123916b6000c1607"
 
 [[files]]
 file = "config/Weather2/Snow.toml"
-hash = "98fbdda33641c3cf04a5327172fc7d1d6afb953e25a77a30f16cbec4ce0c9246"
+hash = "1ed236abcb344693695d1c387b6b4912b61e495455ea221b550f8fef8c1c6457"
 
 [[files]]
 file = "config/Weather2/Sound.toml"
@@ -30,7 +30,7 @@ hash = "dcb4196862118d89396d401d5c93294478cdf50e2ec0241453b35cae7c670ffb"
 
 [[files]]
 file = "config/Weather2/Tornado.toml"
-hash = "a7d070f61f523f7f1c497f6a96dd97bfcba85e51261205796f9d3a97f946d381"
+hash = "2080db67e7a979bd1e00d8c9b36dc6e44ce21e797a4b400e052d3dfc4d15abc3"
 
 [[files]]
 file = "config/Weather2/Wind.toml"
@@ -142,7 +142,7 @@ hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
 
 [[files]]
 file = "config/fancymenu/customization/base.txt"
-hash = "bd3a58bc44e7c22a966168ff838c06a7e47565da6533860b2e237ceef245211e"
+hash = "5f518ec89f0f8c078a89cd621eb348c0a7c3def00686539ae731513afab9373c"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
@@ -652,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/create-fast-schematiccannon.pw.toml"
 hash = "e5e9bba2a89cf10702f9acc4c419810845c519a5685cd3b450f3e5ae147c6899"
+metafile = true
+
+[[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "8cc58e4be39e46682b18564a116ff06c87d7524f9b25fc7607b796d91ffd7d59"
 metafile = true
 
 [[files]]
@@ -1236,7 +1241,12 @@ metafile = true
 
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "54d07601a6be738af7115e07b29d75de786b5ffdc98681a383d6c66f1bd6a6c9"
+hash = "74deebc436f043207dfa22bb03dbedae591434e7529217223db850d494e34d23"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
