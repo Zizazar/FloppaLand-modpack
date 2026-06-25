@@ -28,7 +28,7 @@ S:custom_game_intro_skip_text = '';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/floppaland3icon32x32.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/floppaland3icon32x32.png';
-S:custom_window_title = 'Floppa Land III';
+S:custom_window_title = 'Floppa Land 4';
 S:custom_window_icon_16 = '/config/fancymenu/assets/floppaland3icon16x16.png';
 
 
@@ -44,7 +44,7 @@ B:show_singleplayer_screen_world_icons = 'true';
 
 ##[layout_editor]
 
-B:show_layout_editor_grid = 'true';
+B:show_layout_editor_grid = 'false';
 B:enable_element_rotation_controls = 'true';
 D:anchor_overlay_hover_charging_time_seconds = '2.0';
 B:anchor_overlay_change_anchor_on_element_hover = 'true';

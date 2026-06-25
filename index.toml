@@ -178,7 +178,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1f827ec38ed88480c76128159200a63de6ad8a784a2861543689d76807e396b0"
+hash = "ffbff22217f4516f7d474d1aeec16853b979037434af8b4610ea3675c6a7868a"
 
 [[files]]
 file = "config/fancymenu/panoramas/boom/panorama/panorama_0.png"
@@ -371,6 +371,14 @@ hash = "b11a18db607f0e412c662f7a5ec32c9d512db3a0df3e7d06ad688c9f7b254d42"
 [[files]]
 file = "config/voxy-config.json"
 hash = "1c4bdb3d11384ebff7400c9a7177d1a160fe74b707dbb05672f87f806928e571"
+
+[[files]]
+file = "kubejs/data/createnuclear/worldgen/placed_feature/uranium_ore.json"
+hash = "571ff1940b47cfdfef7d5f206de3a6b9c18eb2e0dafbe5c7a200f34e180961dd"
+
+[[files]]
+file = "kubejs/data/unification/neoforge/biome_modifier/remove_duplicate_ores.json"
+hash = "3750380a8d905ce2f5c3eeb63ea3db5374a4b86566f4c65e14cd170cae3405f3"
 
 [[files]]
 file = "kubejs/server_scripts/export_tags.js"

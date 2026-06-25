@@ -26,14 +26,12 @@
 | **Chat Heads** | Client | [Modrinth](https://modrinth.com/mod/Wb5oqrBJ) |
 | **Chunky (Forge/NeoForge)** | Both | [CurseForge](https://www.curseforge.com/projects/485681) |
 | **Cloth Config API** | Both | [Modrinth](https://modrinth.com/mod/9s6osm5g) |
-| **Connector Extras** | Both | [Modrinth](https://modrinth.com/mod/FYpiwiBR) |
 | **Continuity** | Client | [Modrinth](https://modrinth.com/mod/1IjD5062) |
 | **Controlling** | Client | [Modrinth](https://modrinth.com/mod/xv94TkTM) |
-| **CoroUtil** | Both | [Modrinth](https://modrinth.com/mod/rLLJ1OZM) |
+| **CoroUtil** | Both | [CurseForge](https://www.curseforge.com/projects/237749) |
 | **Corpse** | Both | [Modrinth](https://modrinth.com/mod/WrpuIfhw) |
 | **CraterLib** | Both | [Modrinth](https://modrinth.com/mod/Nn8Wasaq) |
 | **Create** | Both | [Modrinth](https://modrinth.com/mod/LNytGWDc) |
-| **Create : Tracks in Bogs** | Both | [Modrinth](https://modrinth.com/mod/ulhbmNld) |
 | **Create Aeronautics** | Both | [Modrinth](https://modrinth.com/mod/oWaK0Q19) |
 | **Create Aeronautics: Portable Engine Liquid Fuel** | Both | [Modrinth](https://modrinth.com/mod/HLbPoouI) |
 | **Create Aeronautics: Transmission & Linkage** | Both | [Modrinth](https://modrinth.com/mod/Y1dq5ioE) |
@@ -54,6 +52,7 @@
 | **Create: Ballast** | Both | [Modrinth](https://modrinth.com/mod/5ypXYrfG) |
 | **Create: Bells & Whistles** | Both | [Modrinth](https://modrinth.com/mod/gJ5afkVv) |
 | **Create: Bits 'n' Bobs** | Both | [Modrinth](https://modrinth.com/mod/T8bvmqVZ) |
+| **Create: Compact Flap** | Both | [CurseForge](https://www.curseforge.com/projects/1530869) |
 | **Create: Connected** | Both | [Modrinth](https://modrinth.com/mod/Vg5TIO6d) |
 | **Create: Copycats+** | Both | [Modrinth](https://modrinth.com/mod/UT2M39wf) |
 | **Create: Deployer API** | Both | [CurseForge](https://www.curseforge.com/projects/1516421) |
@@ -65,6 +64,7 @@
 | **Create: Extra Gauges** | Both | [CurseForge](https://www.curseforge.com/projects/1263228) |
 | **Create: Fast SchematicCannon** | Both | [CurseForge](https://www.curseforge.com/projects/1352204) |
 | **Create: FastSchematicCannon** | Both | [Modrinth](https://modrinth.com/mod/DebMSCVn) |
+| **Create: Fluid** | Both | [CurseForge](https://www.curseforge.com/projects/1346709) |
 | **Create: Interiors** | Both | [CurseForge](https://www.curseforge.com/projects/906239) |
 | **Create: Pattern Schematics** | Both | [Modrinth](https://modrinth.com/mod/cpqKG67r) |
 | **Create: Power Grid** | Both | [Modrinth](https://modrinth.com/mod/eWiBLJ9R) |
@@ -83,7 +83,7 @@
 | **Curios API** | Both | [Modrinth](https://modrinth.com/mod/vvuO3ImH) |
 | **Cyclops Core** | Both | [Modrinth](https://modrinth.com/mod/Z9DM0LJ4) |
 | **Drippy Loading Screen** | Client | [Modrinth](https://modrinth.com/mod/v3CYg2V9) |
-| **Drive-By-Wire With Sable** | Both | [CurseForge](https://www.curseforge.com/projects/1520378) |
+| **Drive-By-Wire with Sable** | Both | [Modrinth](https://modrinth.com/mod/KsqvI0hD) |
 | **Dungeons and Taverns** | Both | [CurseForge](https://www.curseforge.com/projects/853794) |
 | **Dungeons and Taverns Pillager Outpost Overhaul** | Both | [Modrinth](https://modrinth.com/mod/QIt10I7z) |
 | **Explorify** | Both | [Modrinth](https://modrinth.com/mod/HSfsxuTo) |
@@ -99,10 +99,10 @@
 | **Fzzy Config** | Both | [Modrinth](https://modrinth.com/mod/hYykXjDp) |
 | **Galosphere** | Both | [Modrinth](https://modrinth.com/mod/Kn7xyQ1v) |
 | **Geckolib** | Both | [Modrinth](https://modrinth.com/mod/8BmcQJ2H) |
-| **Generator Accelerator** | Both | [CurseForge](https://www.curseforge.com/projects/1323569) |
 | **Geophilic** | Both | [Modrinth](https://modrinth.com/mod/hl5OLM95) |
 | **Iceberg** | Both | [Modrinth](https://modrinth.com/mod/5faXoLqX) |
 | **Iris Shaders** | Client | [Modrinth](https://modrinth.com/mod/YL57xq9U) |
+| **Iris Veil Compat** | Client | [Modrinth](https://modrinth.com/mod/owQyCHo4) |
 | **Item Highlighter** | Client | [Modrinth](https://modrinth.com/mod/cVNW5lr6) |
 | **Jade 🔍** | Both | [CurseForge](https://www.curseforge.com/projects/324717) |
 | **jadeownerfix** | Client | [Modrinth](https://modrinth.com/mod/RI7OlTfq) |
@@ -119,8 +119,8 @@
 | **Melody** | Client | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | **MES - Moog's End Structures** | Both | [CurseForge](https://www.curseforge.com/projects/892382) |
 | **Moog's Structure Lib (moogs_structures)** | Both | [Modrinth](https://modrinth.com/mod/1oUDhxuy) |
-| **Moonlight Lib** | Both | [CurseForge](https://www.curseforge.com/projects/499980) |
 | **Moonlight Lib** | Both | [Modrinth](https://modrinth.com/mod/twkfQtEc) |
+| **Moonlight Lib** | Both | [CurseForge](https://www.curseforge.com/projects/499980) |
 | **More Red** | Both | [CurseForge](https://www.curseforge.com/projects/387638) |
 | **More Red Sable Wire Fix** | Both | [Modrinth](https://modrinth.com/mod/cu1EeY9G) |
 | **More Red x CC:Tweaked Compat** | Both | [CurseForge](https://www.curseforge.com/projects/867286) |
@@ -150,7 +150,7 @@
 | **Simple Discord RPC** | Client | [Modrinth](https://modrinth.com/mod/ObXSoyrn) |
 | **Simple Voice Chat** | Both | [CurseForge](https://www.curseforge.com/projects/416089) |
 | **Simulated Gauges** | Both | [Modrinth](https://modrinth.com/mod/AwDdvIWn) |
-| **Sinytra Connector** | Both | [Modrinth](https://modrinth.com/mod/u58R1TMW) |
+| **Sinytra Connector** | Client | [Modrinth](https://modrinth.com/mod/u58R1TMW) |
 | **Sodium** | Client | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | **Sodium Extra** | Client | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | **Sound Physics Perfected** | Client | [Modrinth](https://modrinth.com/mod/KS6Hbu9Z) |
@@ -162,13 +162,19 @@
 | **Terralith** | Both | [Modrinth](https://modrinth.com/mod/8oi3bsk5) |
 | **Terraphilic** | Both | [Modrinth](https://modrinth.com/mod/8T4mO5eV) |
 | **Tornado Physics** | Both | [Modrinth](https://modrinth.com/mod/4GHC0z12) |
+| **Touhou Little Maid** | Both | [Modrinth](https://modrinth.com/mod/R0bDWFAW) |
 | **Towns and Towers** | Both | [Modrinth](https://modrinth.com/mod/DjLobEOy) |
 | **Vanilla Backport** | Both | [Modrinth](https://modrinth.com/mod/6xwxDTgf) |
 | **vista** | Both | [Modrinth](https://modrinth.com/mod/zuARv1N7) |
 | **Vista** | Both | [CurseForge](https://www.curseforge.com/projects/1368607) |
 | **Vista Aeronautics Fix** | Client | [Modrinth](https://modrinth.com/mod/ayWsj31j) |
-| **Warvior CC:Sable wired fix** | Server | [Modrinth](https://modrinth.com/mod/QN3qI4QK) |
-| **Weather Storms & Tornadoes** | Both | [Modrinth](https://modrinth.com/mod/dv5SFk5T) |
+| **voxy** | Client |  |
+| **WATERFrAMES: Multimedia Displays** | Both | [Modrinth](https://modrinth.com/mod/eBzFuVTM) |
+| **WATERMeDIA: Multimedia API** | Client | [Modrinth](https://modrinth.com/mod/G922NeHS) |
+| **WATERMeDIA: Youtube Extension** | Client | [Modrinth](https://modrinth.com/mod/P0w3IrnX) |
+| **WATERViSION: VideoPlayer** | Both | [Modrinth](https://modrinth.com/mod/dGGbEGoV) |
+| **Weather, Storms & Tornadoes** | Both | [CurseForge](https://www.curseforge.com/projects/237746) |
+| **What Are They Up To (Watut)** | Both | [CurseForge](https://www.curseforge.com/projects/945479) |
 | **Xaero's Minimap** | Both | [Modrinth](https://modrinth.com/mod/1bokaNcj) |
 | **Xaero's World Map** | Both | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 | **YetAnotherConfigLib (YACL)** | Both | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
