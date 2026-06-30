@@ -41,14 +41,6 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "dbeb0e8012854aab704a7ff294d9a81ee1bac3d5fd3d1c103ad1b7feb5dc4f46"
-
-[[files]]
 file = "config/computercraft-client.toml"
 hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
 
@@ -134,7 +126,7 @@ hash = "376ce5f84bc525aab06fc80a8d980d68e29abe057175516d5f3ea35c71d53b6a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "e880523ab5ecd2a2aab0f7242d1e28cf18cc8d5ea6a26ceaef674553825647ad"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -142,7 +134,7 @@ hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
 
 [[files]]
 file = "config/fancymenu/customization/base.txt"
-hash = "5f518ec89f0f8c078a89cd621eb348c0a7c3def00686539ae731513afab9373c"
+hash = "ecce48337e6a2fb348bdebf8a77b7bcb7ae29eee2d9946c8e364ddc5421c10b0"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -178,7 +170,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "ffbff22217f4516f7d474d1aeec16853b979037434af8b4610ea3675c6a7868a"
+hash = "08ab2b5253d80497a8df4026347dbca230af519d30eb25adefce7ad81fd7959d"
 
 [[files]]
 file = "config/fancymenu/panoramas/boom/panorama/panorama_0.png"
@@ -293,6 +285,10 @@ file = "config/fancymenu/panoramas/village/properties.txt"
 hash = "368d0b1b959ca9e0108dd07eb4eba5b0d6b8a1825aeaddbbe71e867992423d61"
 
 [[files]]
+file = "config/fancymenu/scheduler_instances.txt"
+hash = "a6afd56e69fcabdaec77632279a5005c80f57e7ebd87391617bcda8ca7d8b41c"
+
+[[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
 hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
 
@@ -330,7 +326,7 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "af37d2121ab2f65f8c974ea59b27f65aef24e0063da9a9b7e31b8eb938ef7f57"
+hash = "358ca801d8a0f077c6f919d277144585670e2caf0e5a48694b453ec49855cbbc"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -343,6 +339,10 @@ hash = "a4ddbd79d88157755c6656552dac57c428b79d61c97b3160e0221b3f33b98bf9"
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "cf0d2e037ce035a72604ebfea03ea0d8e4987f8b7c85c90cfbbe2ec275fd2b90"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "8e695c6522cb8c3d164bb661740b4a55226d9e1b253c68326e5312d0e4dabc94"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
@@ -1306,6 +1306,10 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7dab041efdb655eda5f182d7a22ee894642339b738d97585b96ce29cd7cfc2a6"
 
 [[files]]
 file = "resourcepacks/advancement-plaques-last-reality.pw.toml"

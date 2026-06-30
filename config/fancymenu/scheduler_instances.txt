@@ -1,0 +1,13 @@
+type = scheduler_instances
+
+scheduler_instance {
+  scheduler_identifier = scheduler_82161958-ee92-420b-8d0b-ab0ce81df799
+  scheduler_action_script_identifier = 68f80ae1-0606-4263-9248-3d4e92c85544-1782755083304
+  scheduler_start_on_launch = true
+  scheduler_start_delay_ms = 0
+  scheduler_tick_delay_ms = 0
+  scheduler_ticks_to_run = 1
+  [executable_action_instance:0cb7be02-6f0b-40d5-87c5-801c8b312a24-1782755102784][action_type:set_variable] = cool_variable_name:some_value
+  [executable_block:68f80ae1-0606-4263-9248-3d4e92c85544-1782755083304][type:generic] = [executables:0cb7be02-6f0b-40d5-87c5-801c8b312a24-1782755102784;]
+}
+
