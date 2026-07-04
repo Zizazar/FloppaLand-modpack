@@ -389,6 +389,10 @@ file = "kubejs/server_scripts/notify.js"
 hash = "0b1f6ea7cfc06c9364a0988b7adc7cfc72085a0f3dfe59f7221e1db467c9f21d"
 
 [[files]]
+file = "kubejs/server_scripts/tab.js"
+hash = "edafcd9f6b3f3ccb8fcc6a0e32befafaf80a5eab123765fbdce190346bfb163e"
+
+[[files]]
 file = "kubejs/startup_scripts/core.js"
 hash = "a382cdbcd17a03d3e74b8fb5811d7b15828c87ac8356dcdbc0717078cff39138"
 
@@ -555,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
+hash = "16f12fa9a69e00d5e4688d1e7fdf66af3f77e440192f56e7dc23cb1cf1d765fd"
 metafile = true
 
 [[files]]
@@ -828,6 +837,11 @@ hash = "f9398de9ed43f360533cd4a58763a48ccc0674ab7943401e297d1f4a58e775e7"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "287d398ec7d4590401645b45134ea1c00273619b1ddd8dafa3092dec920eed35"
 metafile = true
@@ -913,6 +927,11 @@ hash = "1a1031175f5776c9d87840c732ba137297a62cc0149a839d4206531fbe963d27"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "456dcdd6c4c172612713b59ebd871703b10aa00366cac0792d2d2da0951db2df"
+metafile = true
+
+[[files]]
 file = "mods/keybind-atlas.pw.toml"
 hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
 metafile = true
@@ -955,6 +974,26 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-covers.pw.toml"
+hash = "8330f1d99526fb1952ca5bc3b524f65bf12295a7795803e4c7024d51dbe21df1"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-curios.pw.toml"
+hash = "3a7ce2df47a9b6c03297457530338541b6b50b10f784cd560172d675ac61fb8e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
