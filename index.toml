@@ -977,8 +977,8 @@ hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-covers.pw.toml"
-hash = "8330f1d99526fb1952ca5bc3b524f65bf12295a7795803e4c7024d51dbe21df1"
+file = "mods/maidusehandcrank.pw.toml"
+hash = "ba92f5ae92a9c91d696981d4b7ef723748b7e5f3578b331236d06ce137cf4e32"
 metafile = true
 
 [[files]]
