@@ -33,6 +33,7 @@
 | **CraterLib** | Both | [Modrinth](https://modrinth.com/mod/Nn8Wasaq) |
 | **Create** | Both | [Modrinth](https://modrinth.com/mod/LNytGWDc) |
 | **Create Aeronautics** | Both | [Modrinth](https://modrinth.com/mod/oWaK0Q19) |
+| **Create Aeronautics: Mekanism Compatibility** | Both | [CurseForge](https://www.curseforge.com/projects/1536749) |
 | **Create Aeronautics: Portable Engine Liquid Fuel** | Both | [Modrinth](https://modrinth.com/mod/HLbPoouI) |
 | **Create Aeronautics: Transmission & Linkage** | Both | [Modrinth](https://modrinth.com/mod/Y1dq5ioE) |
 | **Create Big Cannons** | Both | [Modrinth](https://modrinth.com/mod/GWp4jCJj) |
@@ -91,6 +92,7 @@
 | **Exposure: Polaroid** | Both | [Modrinth](https://modrinth.com/mod/WEWiqYkW) |
 | **Fancy Entity Renderer** | Client | [Modrinth](https://modrinth.com/mod/RQ6INv2n) |
 | **FancyMenu** | Both | [Modrinth](https://modrinth.com/mod/Wq5SjeWM) |
+| **Farmer's Delight** | Both | [Modrinth](https://modrinth.com/mod/R2OftAxM) |
 | **FerriteCore ((Neo)Forge)** | Both | [CurseForge](https://www.curseforge.com/projects/429235) |
 | **Forgified Fabric API** | Both | [Modrinth](https://modrinth.com/mod/Aqlf1Shp) |
 | **FTB Library (NeoForge)** | Both | [CurseForge](https://www.curseforge.com/projects/404465) |
@@ -107,20 +109,27 @@
 | **Jade 🔍** | Both | [CurseForge](https://www.curseforge.com/projects/324717) |
 | **jadeownerfix** | Client | [Modrinth](https://modrinth.com/mod/RI7OlTfq) |
 | **Just Enough Items (JEI)** | Both | [CurseForge](https://www.curseforge.com/projects/238222) |
+| **Just Enough Mekanism Multiblocks** | Client | [Modrinth](https://modrinth.com/mod/kRaE85yQ) |
 | **Keybind Atlas** | Client | [Modrinth](https://modrinth.com/mod/fokFjwwh) |
+| **kjsgen** | Both |  |
 | **Konkrete** | Both | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
 | **Kotlin for Forge** | Both | [Modrinth](https://modrinth.com/mod/ordsPcFz) |
 | **KubeJS** | Both | [Modrinth](https://modrinth.com/mod/umyGl7zF) |
 | **KubeJS Create** | Both | [Modrinth](https://modrinth.com/mod/T38eAZQC) |
+| **KubeJS Mekanism** | Both | [Modrinth](https://modrinth.com/mod/sY2Fy24K) |
 | **Lampcrafting** | Both | [Modrinth](https://modrinth.com/mod/Ec2eBEYf) |
 | **Lithium** | Both | [Modrinth](https://modrinth.com/mod/gvQqBUqZ) |
 | **Lithostitched** | Both | [Modrinth](https://modrinth.com/mod/XaDC71GB) |
 | **LootJS: KubeJS Addon** | Server | [Modrinth](https://modrinth.com/mod/fJFETWDN) |
+| **MaidUseHandCrank** | Both | [Modrinth](https://modrinth.com/mod/kVNtrRcL) |
+| **Mekanism** | Both | [Modrinth](https://modrinth.com/mod/Ce6I4WUE) |
+| **Mekanism Curios** | Both | [Modrinth](https://modrinth.com/mod/uKJX4EfN) |
+| **Mekanism Generators** | Both | [Modrinth](https://modrinth.com/mod/OFVYKsAk) |
 | **Melody** | Client | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | **MES - Moog's End Structures** | Both | [CurseForge](https://www.curseforge.com/projects/892382) |
 | **Moog's Structure Lib (moogs_structures)** | Both | [Modrinth](https://modrinth.com/mod/1oUDhxuy) |
-| **Moonlight Lib** | Both | [Modrinth](https://modrinth.com/mod/twkfQtEc) |
 | **Moonlight Lib** | Both | [CurseForge](https://www.curseforge.com/projects/499980) |
+| **Moonlight Lib** | Both | [Modrinth](https://modrinth.com/mod/twkfQtEc) |
 | **More Red** | Both | [CurseForge](https://www.curseforge.com/projects/387638) |
 | **More Red Sable Wire Fix** | Both | [Modrinth](https://modrinth.com/mod/cu1EeY9G) |
 | **More Red x CC:Tweaked Compat** | Both | [CurseForge](https://www.curseforge.com/projects/867286) |
@@ -143,7 +152,6 @@
 | **Ribbits** | Both | [Modrinth](https://modrinth.com/mod/8YcE8y4T) |
 | **Ritchie's Projectile Library** | Both | [CurseForge](https://www.curseforge.com/projects/1279407) |
 | **Sable** | Both | [Modrinth](https://modrinth.com/mod/T9PomCSv) |
-| **Sable Vehicular Deforestation** | Both | [Modrinth](https://modrinth.com/mod/m3nLIPIe) |
 | **Sable x Xaero Bridge** | Both | [CurseForge](https://www.curseforge.com/projects/1529727) |
 | **Seamless Loading Screen ** | Client | [Modrinth](https://modrinth.com/mod/TyTPFOiF) |
 | **Searchables** | Client | [Modrinth](https://modrinth.com/mod/fuuu3xnx) |

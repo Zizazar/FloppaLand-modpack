@@ -1142,11 +1142,6 @@ hash = "cec1885befd8e505f9471fbc3b3b8cf548b8551f11a5cc093ce11b314d43559d"
 metafile = true
 
 [[files]]
-file = "mods/sable-vehicular-deforestation.pw.toml"
-hash = "dfb5716e6cbab738069eb62afdfb0fcc45e28d7407c0aa5e6443fccb71d84ad4"
-metafile = true
-
-[[files]]
 file = "mods/sable-x-xaero-bridge.pw.toml"
 hash = "6325e6ec41040ae69ed46311a14a7962511f5acb878907da1572cc3e795f38f4"
 metafile = true
