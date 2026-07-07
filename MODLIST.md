@@ -67,6 +67,7 @@
 | **Create: FastSchematicCannon** | Both | [Modrinth](https://modrinth.com/mod/DebMSCVn) |
 | **Create: Fluid** | Both | [CurseForge](https://www.curseforge.com/projects/1346709) |
 | **Create: Interiors** | Both | [CurseForge](https://www.curseforge.com/projects/906239) |
+| **Create: Lift n' Load |  Simulated/Aeronautics Addon** | Both | [Modrinth](https://modrinth.com/mod/aJR8vXL6) |
 | **Create: Pattern Schematics** | Both | [Modrinth](https://modrinth.com/mod/cpqKG67r) |
 | **Create: Power Grid** | Both | [Modrinth](https://modrinth.com/mod/eWiBLJ9R) |
 | **Create: Power Loader** | Both | [CurseForge](https://www.curseforge.com/projects/936020) |
@@ -153,6 +154,7 @@
 | **Ritchie's Projectile Library** | Both | [CurseForge](https://www.curseforge.com/projects/1279407) |
 | **Sable** | Both | [Modrinth](https://modrinth.com/mod/T9PomCSv) |
 | **Sable x Xaero Bridge** | Both | [CurseForge](https://www.curseforge.com/projects/1529727) |
+| **Schematician's Goggles** | Both | [Modrinth](https://modrinth.com/mod/1ia4vWrJ) |
 | **Seamless Loading Screen ** | Client | [Modrinth](https://modrinth.com/mod/TyTPFOiF) |
 | **Searchables** | Client | [Modrinth](https://modrinth.com/mod/fuuu3xnx) |
 | **Simple Discord RPC** | Client | [Modrinth](https://modrinth.com/mod/ObXSoyrn) |

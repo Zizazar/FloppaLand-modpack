@@ -682,6 +682,11 @@ hash = "7a9e7aa2f2cbb8feb5350ace416bce0617b84c7e1d89babcdb1905cf0e77c3bf"
 metafile = true
 
 [[files]]
+file = "mods/create-lift-n-load.pw.toml"
+hash = "77fe9aeb9f970359adfbe2b929ffc65b595dd5dbe48bc164c04601bbd19322fa"
+metafile = true
+
+[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
@@ -938,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/kjsgen.pw.toml"
-hash = "51496c24626dc6b3090937eb7f8cc3b13fb66827f8ada8360be16b7b5d32f791"
+hash = "d73ba4d72afb6ea6b7389aba2f603aabe2c74f1c8bb4b87441a62abdc33d1dab"
 metafile = true
 
 [[files]]
@@ -1149,6 +1154,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/schematicians-goggles.pw.toml"
+hash = "5d3a736cd45068f9c36a943fab127dd708bf5fe511f35bd9bfde9eb9309533f8"
 metafile = true
 
 [[files]]
