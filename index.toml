@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/kjsgen.pw.toml"
-hash = "85883dbe8edb8420f07999ee761ed6c371a8939331d6142f62d200e1a76f1d13"
+hash = "80b49a3aeb73c430f7ab140a88382ff16dcad4c5f62b815a6eb6e80975f3559a"
 metafile = true
 
 [[files]]
