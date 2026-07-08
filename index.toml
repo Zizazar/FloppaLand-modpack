@@ -373,6 +373,30 @@ file = "config/voxy-config.json"
 hash = "1c4bdb3d11384ebff7400c9a7177d1a160fe74b707dbb05672f87f806928e571"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "c66baca9377fa9ef6f7e40640f40aceeae881d869d7a9320ddc9fb079cc66efc"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/ru_ru.json"
+hash = "2e5a9ad0744bc2126dd7e144474284796bd8bf93ce7f14af75c28e0a42854e68"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/alloy_atomic_base.png"
+hash = "84edce030ba62a9c69c3347a41929731201dec3efa77702f3a4bbdfa0f57cebb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/alloy_reinforced_base.png"
+hash = "ef4b8e0c12f9da9cfaf0170b74bbac47013340ac41d70f7ba0f6b3edb320f8ba"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ethene_bottle.png"
+hash = "3c39012239d86715b079505ef21f948f4270e1af0ba17f317d49128f53a6972d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/glowstone_mix.png"
+hash = "cfee2b1d7a23fd3db60b58461a4a6d2651b38e7623a331dcec1515fc3e744c6c"
+
+[[files]]
 file = "kubejs/data/createnuclear/worldgen/placed_feature/uranium_ore.json"
 hash = "571ff1940b47cfdfef7d5f206de3a6b9c18eb2e0dafbe5c7a200f34e180961dd"
 
@@ -395,6 +419,10 @@ hash = "edafcd9f6b3f3ccb8fcc6a0e32befafaf80a5eab123765fbdce190346bfb163e"
 [[files]]
 file = "kubejs/startup_scripts/core.js"
 hash = "a382cdbcd17a03d3e74b8fb5811d7b15828c87ac8356dcdbc0717078cff39138"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "a7fef0722292810a0c67483910afcc72188a5628d0c9df53cd5189447dd02c1a"
 
 [[files]]
 file = "mods/accessories.pw.toml"
