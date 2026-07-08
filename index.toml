@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/kjsgen.pw.toml"
-hash = "c35ac4ea77b067fb35e564128f550d4ccc16720d35592be13481cd916609df41"
+hash = "cdb973af05e59c554980738bedc091fd494898ce4985b245041885aa69e2cfb0"
 metafile = true
 
 [[files]]
@@ -1109,6 +1109,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
