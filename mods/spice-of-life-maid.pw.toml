@@ -1,0 +1,13 @@
+name = "Spice of Life: Maid"
+filename = "solmaid-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iXs7Ep7B/versions/y8YF9LbX/solmaid-1.0.1.jar"
+hash-format = "sha512"
+hash = "2433f25e87bb7c76bc0e3772dfbe7f1b15bbeb19b72844df5c96299a3365e47cd6c18a1e0de303cb4822d7c01e220f87fdd2b3a102eeda619c3402693db07ae6"
+
+[update]
+[update.modrinth]
+mod-id = "iXs7Ep7B"
+version = "y8YF9LbX"

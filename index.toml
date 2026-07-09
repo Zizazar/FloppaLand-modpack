@@ -1255,6 +1255,21 @@ hash = "259457f9a3b2c81edefda7823d64f93b480c3271e7d248d7eb9771f50074eb5d"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-maid.pw.toml"
+hash = "817611cfff41adff8289d62244244a573d6d4430141c7459a415da7b9ec35e22"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-maids-dream.pw.toml"
+hash = "2a09cdcc313ac3e4462f48f99852151903c5a8d4219a3f21126857defa282d1c"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "6d22056366c7d5e3a8a79a8549a4b7209702d021590d8b3003de525f1bf29a63"
+metafile = true
+
+[[files]]
 file = "mods/spotlights-or-something.pw.toml"
 hash = "d73511c291c619293c0cd2a8529b29405da3fb5823ca7ba5b215b4832daf8883"
 metafile = true
