@@ -710,6 +710,11 @@ hash = "7a9e7aa2f2cbb8feb5350ace416bce0617b84c7e1d89babcdb1905cf0e77c3bf"
 metafile = true
 
 [[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
+metafile = true
+
+[[files]]
 file = "mods/create-lift-n-load.pw.toml"
 hash = "77fe9aeb9f970359adfbe2b929ffc65b595dd5dbe48bc164c04601bbd19322fa"
 metafile = true
