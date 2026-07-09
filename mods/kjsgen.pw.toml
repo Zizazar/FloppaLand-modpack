@@ -3,6 +3,6 @@ filename = "kjsgen-1.1.0-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Zizazar/kjsgen/releases/download/1.1.3/kjsgen-1.1.0-1.21.1-neoforge.jar"
+url = "https://github.com/Zizazar/kjsgen/releases/download/1.1.4/kjsgen-1.1.0-1.21.1-neoforge.jar"
 hash-format = "sha256"
-hash = "f2fa7e7224d4960e8faa8ec00cf736f75ac7538b4c89d62b28af71b73e6b4b7f"
+hash = "51a92e64392e0356ef0bf22ffd5067b9a975b1d4c7ecafc3a8acb3edb840c035"
