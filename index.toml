@@ -560,6 +560,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "c6f2f159861fc1d1b69e7d965a1e6504c5afd1b1262d7b674162d0e10603fe5a"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -1155,6 +1160,11 @@ hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
@@ -1177,6 +1187,11 @@ metafile = true
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "cec1885befd8e505f9471fbc3b3b8cf548b8551f11a5cc093ce11b314d43559d"
+metafile = true
+
+[[files]]
+file = "mods/sable-cleanup.pw.toml"
+hash = "a853620e7a9fff71bb22f2e467b5861bafdea792d4e679709800c587c98ae95c"
 metafile = true
 
 [[files]]
@@ -1307,6 +1322,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "5367de6572975a1ceaada2d2468624ada048810923fc51e10cc641a8a50da069"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
