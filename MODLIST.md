@@ -42,7 +42,9 @@
 | **Create Cardan Shafts** | Both | [CurseForge](https://www.curseforge.com/projects/1546625) |
 | **Create Crafts & Additions** | Both | [CurseForge](https://www.curseforge.com/projects/439890) |
 | **Create Deco** | Both | [Modrinth](https://modrinth.com/mod/sMvUb4Rb) |
+| **Create Deep Seas** | Both | [Modrinth](https://modrinth.com/mod/mva5q4qZ) |
 | **Create Enchantment Industry Plus** | Both | [Modrinth](https://modrinth.com/mod/dT8lKjaP) |
+| **Create JEI Compat** | Client | [Modrinth](https://modrinth.com/mod/1fkSpqmV) |
 | **Create Nuclear** | Both | [Modrinth](https://modrinth.com/mod/z611fdf7) |
 | **Create Propulsion: Simulated** | Both | [CurseForge](https://www.curseforge.com/projects/1522736) |
 | **Create Radars: Mobile Radars** | Both | [Modrinth](https://modrinth.com/mod/f6vfNoDc) |
@@ -129,8 +131,8 @@
 | **Melody** | Client | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | **MES - Moog's End Structures** | Both | [CurseForge](https://www.curseforge.com/projects/892382) |
 | **Moog's Structure Lib (moogs_structures)** | Both | [Modrinth](https://modrinth.com/mod/1oUDhxuy) |
-| **Moonlight Lib** | Both | [CurseForge](https://www.curseforge.com/projects/499980) |
 | **Moonlight Lib** | Both | [Modrinth](https://modrinth.com/mod/twkfQtEc) |
+| **Moonlight Lib** | Both | [CurseForge](https://www.curseforge.com/projects/499980) |
 | **More Red** | Both | [CurseForge](https://www.curseforge.com/projects/387638) |
 | **More Red Sable Wire Fix** | Both | [Modrinth](https://modrinth.com/mod/cu1EeY9G) |
 | **More Red x CC:Tweaked Compat** | Both | [CurseForge](https://www.curseforge.com/projects/867286) |
@@ -145,14 +147,17 @@
 | **Petrolpark's Library** | Both | [Modrinth](https://modrinth.com/mod/ik2WZkTZ) |
 | **Placebo** | Both | [Modrinth](https://modrinth.com/mod/tCkE8p2N) |
 | **Platform** | Both | [Modrinth](https://modrinth.com/mod/i6fiqm5y) |
+| **Polymorph** | Both | [Modrinth](https://modrinth.com/mod/tagwiZkJ) |
 | **Ponder for KubeJS** | Client | [Modrinth](https://modrinth.com/mod/5A34Stj8) |
 | **Power Screenshot** | Client | [Modrinth](https://modrinth.com/mod/hmJnmIp3) |
+| **Puzzles Lib** | Both | [Modrinth](https://modrinth.com/mod/QAGBst4M) |
 | **Reese's Sodium Options** | Client | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
 | **Regions Unexplored** | Both | [Modrinth](https://modrinth.com/mod/Tkikq67H) |
 | **Rhino** | Both | [Modrinth](https://modrinth.com/mod/sk9knFPE) |
 | **Ribbits** | Both | [Modrinth](https://modrinth.com/mod/8YcE8y4T) |
 | **Ritchie's Projectile Library** | Both | [CurseForge](https://www.curseforge.com/projects/1279407) |
 | **Sable** | Both | [Modrinth](https://modrinth.com/mod/T9PomCSv) |
+| **Sable CleanUp** | Both | [Modrinth](https://modrinth.com/mod/wVnz7KNf) |
 | **Sable x Xaero Bridge** | Both | [CurseForge](https://www.curseforge.com/projects/1529727) |
 | **Schematician's Goggles** | Both | [Modrinth](https://modrinth.com/mod/1ia4vWrJ) |
 | **Seamless Loading Screen ** | Client | [Modrinth](https://modrinth.com/mod/TyTPFOiF) |
@@ -165,6 +170,9 @@
 | **Sodium Extra** | Client | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | **Sound Physics Perfected** | Client | [Modrinth](https://modrinth.com/mod/KS6Hbu9Z) |
 | **spark** | Both | [CurseForge](https://www.curseforge.com/projects/361579) |
+| **Spice of Life Onion** | Both | [Modrinth](https://modrinth.com/mod/eHGYGKJz) |
+| **Spice of Life: Maid** | Both | [Modrinth](https://modrinth.com/mod/iXs7Ep7B) |
+| **Spice of Life: Maids' Dream** | Both | [Modrinth](https://modrinth.com/mod/dgkLv3Nj) |
 | **Spotlights or Something** | Both | [Modrinth](https://modrinth.com/mod/nCNay0Nd) |
 | **Supplementaries** | Both | [Modrinth](https://modrinth.com/mod/fFEIiSDQ) |
 | **Tectonic** | Both | [Modrinth](https://modrinth.com/mod/lWDHr9jE) |
@@ -178,6 +186,7 @@
 | **vista** | Both | [Modrinth](https://modrinth.com/mod/zuARv1N7) |
 | **Vista** | Both | [CurseForge](https://www.curseforge.com/projects/1368607) |
 | **Vista Aeronautics Fix** | Client | [Modrinth](https://modrinth.com/mod/ayWsj31j) |
+| **Visual Workbench** | Both | [Modrinth](https://modrinth.com/mod/kfqD1JRw) |
 | **voxy** | Client |  |
 | **WATERFrAMES: Multimedia Displays** | Both | [Modrinth](https://modrinth.com/mod/eBzFuVTM) |
 | **WATERMeDIA: Multimedia API** | Client | [Modrinth](https://modrinth.com/mod/G922NeHS) |
