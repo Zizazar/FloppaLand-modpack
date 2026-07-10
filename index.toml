@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "MODLIST.json"
+hash = "6e900574b5cacf42c227c752dc68a07bf96a00f70193d2fb79517a84f70dc5eb"
+
+[[files]]
 file = "config/Weather2/Debug.toml"
 hash = "10bbd6c1da64a524469307eab7df2a69b9487126c075b5012b3e339caa0cf6b8"
 
@@ -134,7 +138,7 @@ hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
 
 [[files]]
 file = "config/fancymenu/customization/base.txt"
-hash = "ecce48337e6a2fb348bdebf8a77b7bcb7ae29eee2d9946c8e364ddc5421c10b0"
+hash = "5176b95d6d8278aab545563eb77b5ee339528dfb3000c7e7ac8d2f2d4c93862a"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
