@@ -401,10 +401,6 @@ file = "kubejs/assets/kubejs/textures/item/glowstone_mix.png"
 hash = "cfee2b1d7a23fd3db60b58461a4a6d2651b38e7623a331dcec1515fc3e744c6c"
 
 [[files]]
-file = "kubejs/client_scripts/ban_jei.js"
-hash = "9962d43bdee8000729118616d89259ede38fbf227791d6d363db7a2a908d27f3"
-
-[[files]]
 file = "kubejs/client_scripts/ban_tooltip.js"
 hash = "fbebc1dea41fee6022bce6eddd1fcc836a5d6b610375e4a8caa6f93126ee3def"
 
