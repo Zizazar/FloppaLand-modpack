@@ -401,10 +401,6 @@ file = "kubejs/assets/kubejs/textures/item/glowstone_mix.png"
 hash = "cfee2b1d7a23fd3db60b58461a4a6d2651b38e7623a331dcec1515fc3e744c6c"
 
 [[files]]
-file = "kubejs/client_scripts/ban_tooltip.js"
-hash = "fbebc1dea41fee6022bce6eddd1fcc836a5d6b610375e4a8caa6f93126ee3def"
-
-[[files]]
 file = "kubejs/data/createnuclear/worldgen/placed_feature/uranium_ore.json"
 hash = "571ff1940b47cfdfef7d5f206de3a6b9c18eb2e0dafbe5c7a200f34e180961dd"
 
