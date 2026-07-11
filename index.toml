@@ -401,12 +401,32 @@ file = "kubejs/assets/kubejs/textures/item/glowstone_mix.png"
 hash = "cfee2b1d7a23fd3db60b58461a4a6d2651b38e7623a331dcec1515fc3e744c6c"
 
 [[files]]
+file = "kubejs/client_scripts/ban_jei.js"
+hash = "9962d43bdee8000729118616d89259ede38fbf227791d6d363db7a2a908d27f3"
+
+[[files]]
+file = "kubejs/client_scripts/ban_tooltip.js"
+hash = "fbebc1dea41fee6022bce6eddd1fcc836a5d6b610375e4a8caa6f93126ee3def"
+
+[[files]]
 file = "kubejs/data/createnuclear/worldgen/placed_feature/uranium_ore.json"
 hash = "571ff1940b47cfdfef7d5f206de3a6b9c18eb2e0dafbe5c7a200f34e180961dd"
 
 [[files]]
 file = "kubejs/data/unification/neoforge/biome_modifier/remove_duplicate_ores.json"
 hash = "3750380a8d905ce2f5c3eeb63ea3db5374a4b86566f4c65e14cd170cae3405f3"
+
+[[files]]
+file = "kubejs/server_scripts/ban_manager.js"
+hash = "dc47b22937f7dc96e37162a7e6dadb9f83f63a86a7172e9e066a345ce3e9c7b9"
+
+[[files]]
+file = "kubejs/server_scripts/ban_recipes.js"
+hash = "f644b8e23cdb2b6947dff7675a4ba766b73bb62c3ffa713fa5de25a31b4570c3"
+
+[[files]]
+file = "kubejs/server_scripts/ban_tag.js"
+hash = "643086bc1fb0cb4776bb548bd3b541fea6c0de940b9fe1e80468c5d5f81d97f1"
 
 [[files]]
 file = "kubejs/server_scripts/export_tags.js"
