@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "e06515114b6dcbca647d6039b7fb0938cbe13a99f25b478b6f194168cb49da63"
-=======
-hash = "3b98812b6564b0708faba2d6d6ba02db56210b7bb3c68c6facbf5b2f3870602d"
->>>>>>> cba40f3 (upd kjsgen)
+hash = "b6fbc9a81edf23990f024e8a3507a54081c89344addc539435e0cc5d364b306d"
 
 [versions]
 minecraft = "1.21.1"
