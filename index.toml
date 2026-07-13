@@ -1006,11 +1006,6 @@ hash = "84914fc3e4a0dc029068bc402fcd23c9c2059108b57de31b0bc7bbe7b2b10fa8"
 metafile = true
 
 [[files]]
-file = "mods/kjsgen.pw.toml"
-hash = "c7a3ec1b959fd9daf4fa0447267e6ccc65c7d74d5ff8f201db89401ccc693c27"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
@@ -1023,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-generator.pw.toml"
+hash = "76b396d7ec91670da40be4f245aebd80083ace7b3dee921b4dc9a8604f4518fb"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "KubeJS Generator"
+filename = "kjsgen-1.2.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb0f4bad523e93299a4650405c430d5d457c5f45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8424219
+project-id = 1608642
