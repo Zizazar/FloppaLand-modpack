@@ -1,0 +1,13 @@
+name = "Contraption Lights"
+filename = "contraption-lights-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gUdYw8o3/versions/Tc6h7no9/contraption-lights-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "e0b7b9087ce16f8413734e4db9a51bcaa94ffd5cdf7ad936231fd8024181a5b47cd4aa45a2d59f995c2afe48f4c915d7f4f1cfa8b6309c434382a527497524e8"
+
+[update]
+[update.modrinth]
+mod-id = "gUdYw8o3"
+version = "Tc6h7no9"
