@@ -531,6 +531,11 @@ hash = "bf235add2b3e6d5ce63b07ad63203261a041f64076ca004f7286d9cdf9fa2751"
 metafile = true
 
 [[files]]
+file = "mods/bordersonxaeromap.pw.toml"
+hash = "bb21044241a65423e98481809370dedc53f6a15dd4a14d53680095985f1a63a4"
+metafile = true
+
+[[files]]
 file = "mods/cbcperipheral.pw.toml"
 hash = "08445928f48420d77f459d497ba6be84e2fbce65cd45328e89df901bf1d6df11"
 metafile = true
@@ -1078,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/maidusehandcrank.pw.toml"
 hash = "ba92f5ae92a9c91d696981d4b7ef723748b7e5f3578b331236d06ce137cf4e32"
+metafile = true
+
+[[files]]
+file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
+hash = "fc09ad6f603a6bc743c439fb154f0e3385ffa7566fdd5f8e8c12f6d34b66bb24"
 metafile = true
 
 [[files]]

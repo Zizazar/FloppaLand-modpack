@@ -1,0 +1,13 @@
+name = "BordersOnXaeroMap"
+filename = "bordersonxaeromap-0.1.2a_neoforge_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CFTMguCN/versions/ILUCmhCB/bordersonxaeromap-0.1.2a_neoforge_1.21.1.jar"
+hash-format = "sha512"
+hash = "b9e062d9fac883185b2125c009b875dd765ef571a88491e26b251ff26dab6e85e7f4a7be059588e00d90d958fcea1087a7a0c3fd9b6d728e54b05a3fcab09275"
+
+[update]
+[update.modrinth]
+mod-id = "CFTMguCN"
+version = "ILUCmhCB"
