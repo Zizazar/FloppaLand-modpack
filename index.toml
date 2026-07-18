@@ -1001,6 +1001,11 @@ hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
+metafile = true
+
+[[files]]
 file = "mods/iris-veil-compat.pw.toml"
 hash = "69f9051c61c05546a2bf008654149a101814842bc2bf384df5c0ee0d64301ccd"
 metafile = true
@@ -1078,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/lampcrafting.pw.toml"
 hash = "77e94c20d3e35b58dd3101b8c3d86c1ecb9fb655e486bdca9d76abb70dbeebd2"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
