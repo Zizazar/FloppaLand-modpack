@@ -446,6 +446,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
+metafile = true
+
+[[files]]
 file = "mods/aesthetic-stairs.pw.toml"
 hash = "45d6f4e7c619609030c2a32e18f5e4800a0de65e4c28f976582eda3177265095"
 metafile = true
@@ -541,6 +546,11 @@ hash = "08445928f48420d77f459d497ba6be84e2fbce65cd45328e89df901bf1d6df11"
 metafile = true
 
 [[files]]
+file = "mods/cc-hud-glasses.pw.toml"
+hash = "bc81874b0b63aa08716fd5ed43e3f8e9d99b65554e8ef5c8d3acd956301bf803"
+metafile = true
+
+[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
 metafile = true
@@ -553,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
+metafile = true
+
+[[files]]
+file = "mods/ccdirectgpu-mod.pw.toml"
+hash = "ab69afe7f8ad2df9b5e2c3ff7314b59c466c90e16e4415559bc7ffa52b967960"
 metafile = true
 
 [[files]]
