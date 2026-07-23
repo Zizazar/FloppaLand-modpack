@@ -576,6 +576,11 @@ hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
 metafile = true
 
 [[files]]
+file = "mods/chunky-offline.pw.toml"
+hash = "986f28c111e5ecf1a77054203ddcc6642d269561827cab3968c811672a7ce53c"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "0995bfc651fe4527c1ea6dc6ca323a02a52ba4e2ef38ee299ef15be16cb900e3"
 metafile = true
@@ -1001,11 +1006,6 @@ hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
-metafile = true
-
-[[files]]
 file = "mods/iris-veil-compat.pw.toml"
 hash = "69f9051c61c05546a2bf008654149a101814842bc2bf384df5c0ee0d64301ccd"
 metafile = true
@@ -1028,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/jadeownerfix.pw.toml"
 hash = "5535988298f6434d4f5f84dea716a90c72a26db56c38cd72fbac1f214fd6a6c3"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
 
 [[files]]
@@ -1343,6 +1348,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "df550272732a7cff425e318c1c43f08df67595e8194f852f3847a4d98b56f1da"
 metafile = true
 
 [[files]]
