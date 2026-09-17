@@ -446,6 +446,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
+metafile = true
+
+[[files]]
 file = "mods/aesthetic-stairs.pw.toml"
 hash = "45d6f4e7c619609030c2a32e18f5e4800a0de65e4c28f976582eda3177265095"
 metafile = true
@@ -541,6 +546,11 @@ hash = "08445928f48420d77f459d497ba6be84e2fbce65cd45328e89df901bf1d6df11"
 metafile = true
 
 [[files]]
+file = "mods/cc-hud-glasses.pw.toml"
+hash = "bc81874b0b63aa08716fd5ed43e3f8e9d99b65554e8ef5c8d3acd956301bf803"
+metafile = true
+
+[[files]]
 file = "mods/cc-redstone-link-bridge.pw.toml"
 hash = "791a6138f2501b4e3d2695bc6f95d207da57872cb7a32074a6236a264e43cb7f"
 metafile = true
@@ -556,8 +566,18 @@ hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
 
 [[files]]
+file = "mods/ccdirectgpu-mod.pw.toml"
+hash = "ab69afe7f8ad2df9b5e2c3ff7314b59c466c90e16e4415559bc7ffa52b967960"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
+metafile = true
+
+[[files]]
+file = "mods/chunky-offline.pw.toml"
+hash = "986f28c111e5ecf1a77054203ddcc6642d269561827cab3968c811672a7ce53c"
 metafile = true
 
 [[files]]
@@ -1011,6 +1031,11 @@ hash = "5535988298f6434d4f5f84dea716a90c72a26db56c38cd72fbac1f214fd6a6c3"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "1a1031175f5776c9d87840c732ba137297a62cc0149a839d4206531fbe963d27"
 metafile = true
@@ -1063,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/lampcrafting.pw.toml"
 hash = "77e94c20d3e35b58dd3101b8c3d86c1ecb9fb655e486bdca9d76abb70dbeebd2"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
@@ -1318,6 +1348,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "df550272732a7cff425e318c1c43f08df67595e8194f852f3847a4d98b56f1da"
 metafile = true
 
 [[files]]
