@@ -1116,11 +1116,6 @@ hash = "ba92f5ae92a9c91d696981d4b7ef723748b7e5f3578b331236d06ce137cf4e32"
 metafile = true
 
 [[files]]
-file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
-hash = "fc09ad6f603a6bc743c439fb154f0e3385ffa7566fdd5f8e8c12f6d34b66bb24"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-curios.pw.toml"
 hash = "3a7ce2df47a9b6c03297457530338541b6b50b10f784cd560172d675ac61fb8e"
 metafile = true
