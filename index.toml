@@ -791,11 +791,6 @@ hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
-file = "mods/create-pocket-sized.pw.toml"
-hash = "96d2b8e881d26885f7bef6b37f689a40d750fa52f874d1e2afb72beac7670f3a"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "134f203b74498f0b48a80a884b7cacd93e57170d71a49209db00f424ff1dd196"
 metafile = true
