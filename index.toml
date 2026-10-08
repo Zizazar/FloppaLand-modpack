@@ -1121,6 +1121,11 @@ hash = "ba92f5ae92a9c91d696981d4b7ef723748b7e5f3578b331236d06ce137cf4e32"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "f16f12f50147b493bc8b321ab26337b78cb892efdcf48cef6ddddefa1d4ea927"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-curios.pw.toml"
 hash = "3a7ce2df47a9b6c03297457530338541b6b50b10f784cd560172d675ac61fb8e"
 metafile = true
@@ -1203,6 +1208,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers-ii.pw.toml"
+hash = "28f0a05b132129ba8061ea1697e6e03cbbe86c22183b7d368d9bc4bba73b2b89"
 metafile = true
 
 [[files]]
