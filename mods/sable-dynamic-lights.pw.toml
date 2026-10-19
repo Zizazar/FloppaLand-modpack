@@ -1,0 +1,13 @@
+name = "Sable Dynamic Lights (Create: Dynamic Lights fork)"
+filename = "sable-dynamic-lights-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KKb9KQzX/versions/vjb0hAWB/sable-dynamic-lights-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "d0c14dfd60adc41e1084a6a3c7b08ffb7122bb89c97bab2fc9c722e4761b174d2009f6a2a1e464f36825bacf54d6c962bb471003c65c7304213048c9ef3f143a"
+
+[update]
+[update.modrinth]
+mod-id = "KKb9KQzX"
+version = "vjb0hAWB"
