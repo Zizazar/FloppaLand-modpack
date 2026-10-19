@@ -1126,11 +1126,6 @@ hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
 metafile = true
 
 [[files]]
-file = "mods/lovsplayer.pw.toml"
-hash = "4a965c3e1db3c7a5070a547fb3102b3636cb646055240bca762a106576009a5d"
-metafile = true
-
-[[files]]
 file = "mods/maidusehandcrank.pw.toml"
 hash = "ba92f5ae92a9c91d696981d4b7ef723748b7e5f3578b331236d06ce137cf4e32"
 metafile = true
