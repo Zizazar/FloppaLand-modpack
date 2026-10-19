@@ -541,6 +541,11 @@ hash = "bb21044241a65423e98481809370dedc53f6a15dd4a14d53680095985f1a63a4"
 metafile = true
 
 [[files]]
+file = "mods/cbc-locometal-armor.pw.toml"
+hash = "ae483c5af2ef43fd7afd785cbced8c5f78e235239732a51f44183dfb26adf1eb"
+metafile = true
+
+[[files]]
 file = "mods/cbcperipheral.pw.toml"
 hash = "08445928f48420d77f459d497ba6be84e2fbce65cd45328e89df901bf1d6df11"
 metafile = true
@@ -788,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
+file = "mods/create-pocket-sized.pw.toml"
+hash = "4ccec26aefce4573ab23c8f5eee98c010d8537757b6b66b4c7d476c20d36201f"
 metafile = true
 
 [[files]]
@@ -1116,6 +1126,11 @@ hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
 metafile = true
 
 [[files]]
+file = "mods/lovsplayer.pw.toml"
+hash = "4a965c3e1db3c7a5070a547fb3102b3636cb646055240bca762a106576009a5d"
+metafile = true
+
+[[files]]
 file = "mods/maidusehandcrank.pw.toml"
 hash = "ba92f5ae92a9c91d696981d4b7ef723748b7e5f3578b331236d06ce137cf4e32"
 metafile = true
@@ -1228,6 +1243,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
 
 [[files]]
