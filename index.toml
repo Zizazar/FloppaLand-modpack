@@ -14,7 +14,7 @@ hash = "1a5883881ea2484b8f8ec1ae341ff9a77709cc2ac79e874dc2d699a14197b895"
 
 [[files]]
 file = "config/Weather2/Particle.toml"
-hash = "4a5c0073f65434b7997e9ee628c951def52a37fc7ad38d154a477c15b05a4d29"
+hash = "a5a83e2b98392668998c04e82bdd72f6ba970c85ea0d71537ec019140b9031b9"
 
 [[files]]
 file = "config/Weather2/Sand.toml"
@@ -1318,11 +1318,6 @@ metafile = true
 [[files]]
 file = "mods/sable-cleanup.pw.toml"
 hash = "a853620e7a9fff71bb22f2e467b5861bafdea792d4e679709800c587c98ae95c"
-metafile = true
-
-[[files]]
-file = "mods/sable-dynamic-lights.pw.toml"
-hash = "dfc0f3c78bbbf2123b4459ad3f1706c98799fed6ab445bdc915f4f5233a000d1"
 metafile = true
 
 [[files]]
